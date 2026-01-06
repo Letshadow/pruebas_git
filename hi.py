@@ -25,4 +25,5 @@ print("lavar la ropa, ir al gym, hacer curso de cesde,")
 #
 # llego tarde a ver que paso
 #
->>>>>>> origin/main
+print("Fin del Reparto")
+
