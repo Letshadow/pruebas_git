@@ -15,6 +15,7 @@ print("En algun algun lugar de ortezal, 3 ingenieros estaban programando")
 # JOSETH
 #
 # Tareas del dia
+print("lavar la ropa, ir al gym, hacer curso de cesde,")
 #
 # WENDY
 #
