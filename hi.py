@@ -1,4 +1,9 @@
 print("Hola Mundo")
+
+print("")
+
+
+
 # REPARTO :)
 #
 print("En algun algun lugar de ortezal, 3 ingenieros estaban programando")
@@ -10,6 +15,7 @@ print("En algun algun lugar de ortezal, 3 ingenieros estaban programando")
 # JOSETH
 #
 # Tareas del dia
+print("lavar la ropa, ir al gym, hacer curso de cesde,")
 #
 # WENDY
 #
@@ -20,3 +26,4 @@ print("En algun algun lugar de ortezal, 3 ingenieros estaban programando")
 # llego tarde a ver que paso
 #
 print("Fin del Reparto")
+
